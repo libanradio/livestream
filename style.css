@@ -5,7 +5,7 @@ body {
   height: 100vh;
   overflow: hidden;
   background: linear-gradient(to bottom right, #eb2026, skywhite);
-  margin-top: 50px;
+  margin-top: 10px;
 }
 
 .audio-player {
